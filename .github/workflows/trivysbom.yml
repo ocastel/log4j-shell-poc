@@ -41,4 +41,4 @@ jobs:
           format: 'github'
           template: '@/contrib/sarif.tpl'
           output: 'dependency-results.sbom.json'
-          github-pat: '<github_pat_token>'
+          github-pat: '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'
